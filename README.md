@@ -26,7 +26,7 @@ The main idea is simple: open the webcam, manually select an object in the first
 in your terminal or command prompt, simply run:
 
 ```bash
-python tracker.py
+traking_system.py
 ```
 
 Here’s what to expect:
